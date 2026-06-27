@@ -8,7 +8,6 @@ This function receives two numbers,
 adds them, and returns the result.
 */
 
-
 /*
 Function Definition
 
@@ -38,7 +37,6 @@ int sum(int x, int y)
 
     int s = x + y;
 
-
     /*
     Step 2:
 
@@ -49,7 +47,6 @@ int sum(int x, int y)
 
     return s;
 }
-
 
 int main()
 {
@@ -62,8 +59,6 @@ int main()
 
     int a, b;
     scanf("%d %d", &a, &b);
-
-
 
     /*
     Step 4:
